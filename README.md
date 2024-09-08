@@ -1,3 +1,5 @@
+# Executando a calculadora em python e em .sh
+
 Visão Geral
 Este projeto é uma calculadora simples implementada com dois arquivos: um script em Python e um script em Shell (bash). 
 A calculadora realiza operações básicas como adição, subtração, multiplicação e divisão.
